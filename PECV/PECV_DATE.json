@@ -1,0 +1,17 @@
+{	"Title": "Population Estimates Categorical Variables",
+	"SubTitle": "DATE: Estimate Date",
+	"SourceURL": "https://www.census.gov/data/developers/data-sets/popest-popproj/popest/popest-vars.html",
+	"Vintage": 2016,
+	"AsOf":  "December 21, 2016",
+	"Retrieved":  "April 26, 2017",
+	"DATE": {	"1": "April 1, 2010 Census population or housing unit count",
+				"2": "April 1, 2010 population or housing unit estimates base",
+				"3": "July 1, 2010 population or housing unit estimate",
+				"4": "July 1, 2011 population or housing unit estimate",
+				"5": "July 1, 2012 population or housing unit estimate",
+				"6": "July 1, 2013 population or housing unit estimate",
+				"7": "July 1, 2014 population or housing unit estimate",
+				"8": "July 1, 2015 population or housing unit estimate",
+				"9": "July 1, 2016 population or housing unit estimate"
+				}
+}
