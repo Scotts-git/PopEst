@@ -1,0 +1,17 @@
+{	"Title": "Population Estimates Categorical Variables",
+	"SubTitle": "DIVISION: Census Division",
+	"SourceURL": "https://www.census.gov/data/developers/data-sets/popest-popproj/popest/popest-vars.html",
+	"AsOf":  "December 21, 2016",
+	"Retrieved":  "April 26, 2017",
+	"DIVISION": {
+					"1": "New England",
+					"2": "Middle Atlantic",
+					"3": "East North Central",
+					"4": "West North Central",
+					"5": "South Atlantic",
+					"6": "East South Central",
+					"7": "West South Central",
+					"8": "Mountain",
+					"9": "Pacific"
+					 }
+}

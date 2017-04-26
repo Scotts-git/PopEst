@@ -1,0 +1,11 @@
+{	"Title": "Population Estimates Categorical Variables",
+	"SubTitle": "SEX: Sex",
+	"SourceURL": "https://www.census.gov/data/developers/data-sets/popest-popproj/popest/popest-vars.html",
+	"AsOf":  "December 21, 2016",
+	"Retrieved":  "April 26, 2017",
+	"SEX": {	
+			"0": "Both Sexes",
+			"1": "Male",
+			"2": "Female"
+				}
+}

@@ -1,0 +1,21 @@
+{	"Title": "Population Estimates Categorical Variables",
+	"SubTitle": "RACE: Race",
+	"SourceURL": "https://www.census.gov/data/developers/data-sets/popest-popproj/popest/popest-vars.html",
+	"AsOf":  "December 21, 2016",
+	"Retrieved":  "April 26, 2017",
+	"RACE": {
+			 "0": "All races",
+			 "1": "White alone",
+			 "2": "Black alone",
+			 "3": "American Indian and Alaska Native alone",
+			 "4": "Asian alone",
+			 "5": "Native Hawaiian and Other Pacific Islander alone",
+			 "6": "Two or more races",
+			 "7": "White alone or in combination",
+			 "8": "Black alone or in combination",
+			 "9": "American Indian and Alaska Native alone or in combination",
+			"10": "Asian alone or in combination",
+			"11": "Native Hawaiian and Other Pacific Islander alone or in combination"
+
+	}
+}

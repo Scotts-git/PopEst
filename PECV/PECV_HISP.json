@@ -1,0 +1,11 @@
+{	"Title": "Population Estimates Categorical Variables",
+	"SubTitle": "HISP: Hispanic Origin",
+	"SourceURL": "https://www.census.gov/data/developers/data-sets/popest-popproj/popest/popest-vars.html",
+	"AsOf":  "December 21, 2016",
+	"Retrieved":  "April 26, 2017",
+	"HISP": {
+			"0": "Both Hispanic Origins",
+			"1": "Non-Hispanic",
+			"2": "Hispanic"
+			}
+}

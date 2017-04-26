@@ -1,0 +1,22 @@
+{	"Title": "Population Estimates Categorical Variables",
+	"SubTitle": "SUMLEV: Geographic Summary Level",
+	"SourceURL": "https://www.census.gov/data/developers/data-sets/popest-popproj/popest/popest-vars.html",
+	"AsOf":  "December 21, 2016",
+	"Retrieved":  "April 26, 2017",
+	"SUMLEV": {	
+				"010": "Nation",
+				"020": "Region",
+				"030": "Division",
+				"040": "State and/or Statistical Equivalent",
+				"050": "County and/or Statistical Equivalent",
+				"061": "Minor Civil Division",
+				"071": "Minor Civil Division place part",
+				"157": "County place part",
+				"162": "Incorporated place",
+				"170": "Consolidated city",
+				"172": "Consolidated city -- place within consolidated city",
+				"310": "Metropolitan Statistical Area/Micropolitan Statistical Area",
+				"314": "Metropolitan Division",
+				"330": "Combined Statistical Area"
+				}
+}
